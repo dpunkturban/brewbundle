@@ -56,6 +56,7 @@ brew "vnstat"
 
 # Study stuff
 cask "texpad"
+cask "mactex-no-gui"
 
 # Coding stuff
 brew "go"
@@ -72,4 +73,4 @@ cask "visual-studio-code"
 cask "freifunk-meet"
 brew "sshfs"
 brew "sshpass"
-brew 'tree'
+brew "tree"
