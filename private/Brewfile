@@ -30,6 +30,7 @@ cask "keka"
 cask "iterm2"
 cask "seafile-client"
 cask "typora"
+cask "spotify"
 
 # Communication
 cask "whatsapp"
