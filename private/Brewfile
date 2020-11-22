@@ -35,6 +35,7 @@ cask "whatsapp"
 cask "signal"
 
 # Productivity Shit
+brew "tldr"
 cask "alfred"
 cask "1password"
 
@@ -62,12 +63,14 @@ cask "mactex-no-gui"
 brew "go"
 brew "neovim"
 brew "yamllint"
+brew "jq"
 cask "clion"
 cask "dash"
 cask "goland"
 cask "tower"
 cask "vagrant"
 cask "visual-studio-code"
+
 
 # Other shit
 cask "freifunk-meet"
