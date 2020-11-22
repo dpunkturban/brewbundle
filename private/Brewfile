@@ -29,8 +29,11 @@ cask "istat-menus"
 cask "keka"
 cask "iterm2"
 cask "seafile-client"
-cask "signal"
 cask "typora"
+
+# Communication
+cask "whatsapp"
+cask "signal"
 
 # Productivity Shit
 cask "alfred"
