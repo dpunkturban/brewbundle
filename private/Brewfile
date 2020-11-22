@@ -6,9 +6,7 @@ tap "homebrew/cask-fonts"
 tap "homebrew/cask-versions"
 tap "homebrew/core"
 tap "homebrew/services"
-tap "jeffreywildman/virt-manager"
 tap "neovim/neovim"
-tap "universal-ctags/universal-ctags"
 
 
 # Essentials
