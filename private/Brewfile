@@ -1,0 +1,72 @@
+tap "caskroom/cask"
+tap "freifunkmuc/freifunkmeet"
+tap "homebrew/bundle"
+tap "homebrew/cask"
+tap "homebrew/cask-fonts"
+tap "homebrew/cask-versions"
+tap "homebrew/core"
+tap "homebrew/services"
+tap "jeffreywildman/virt-manager"
+tap "neovim/neovim"
+tap "universal-ctags/universal-ctags"
+
+
+# Essentials
+brew "cask"
+brew "fish"
+brew "git"
+brew "git-lfs"
+brew "htop"
+brew "iproute2mac"
+brew "mosh"
+brew "ncdu"
+brew "tmux"
+brew "watch"
+brew "wget"
+cask "firefox"
+cask "iina"
+cask "istat-menus"
+cask "keka"
+cask "iterm2"
+cask "seafile-client"
+cask "signal"
+cask "typora"
+
+# Productivity Shit
+cask "alfred"
+cask "1password"
+
+# Work stuff
+brew "hugo"
+brew "ansible"
+brew "ansible-lint"
+brew "restic"
+brew "whois", link: true
+
+# Network stuff
+brew "mtr"
+brew "ipcalc"
+brew "nmap"
+brew "sipcalc"
+brew "tcptraceroute"
+brew "telnet"
+brew "vnstat"
+
+# Study stuff
+cask "texpad"
+
+# Coding stuff
+brew "go"
+brew "neovim"
+brew "yamllint"
+cask "clion"
+cask "dash"
+cask "goland"
+cask "tower"
+cask "vagrant"
+cask "visual-studio-code"
+
+# Other shit
+cask "freifunk-meet"
+brew "sshfs"
+brew "sshpass"
