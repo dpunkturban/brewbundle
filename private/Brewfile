@@ -33,6 +33,7 @@ cask "spotify"
 # Communication
 cask "whatsapp"
 cask "signal"
+cask "freifunk-meet"
 
 # Productivity Shit
 brew "tldr"
@@ -73,7 +74,6 @@ cask "visual-studio-code"
 
 
 # Other shit
-cask "freifunk-meet"
 brew "sshfs"
 brew "sshpass"
 brew "tree"
