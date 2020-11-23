@@ -54,6 +54,9 @@ cask "nextcloud"
 brew "jeffreywildman/virt-manager/virt-manager"
 brew "jeffreywildman/virt-manager/virt-viewer"
 
+# VPN
+cask "tunnelblick"
+
 # Network stuff
 brew "mtr"
 brew "ipcalc"
