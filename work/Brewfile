@@ -1,0 +1,88 @@
+tap "caskroom/cask"
+tap "freifunkmuc/freifunkmeet"
+tap "homebrew/bundle"
+tap "homebrew/cask"
+tap "homebrew/cask-fonts"
+tap "homebrew/cask-versions"
+tap "homebrew/core"
+tap "homebrew/services"
+tap "neovim/neovim"
+
+
+# Essentials
+brew "cask"
+brew "fish"
+brew "git"
+brew "git-lfs"
+brew "htop"
+brew "iproute2mac"
+brew "mosh"
+brew "ncdu"
+brew "tmux"
+brew "watch"
+brew "wget"
+cask "firefox"
+cask "iina"
+cask "istat-menus"
+cask "keka"
+cask "iterm2"
+cask "typora"
+cask "spotify"
+pass "gopass"
+
+# Communication
+cask "freifunk-meet"
+cask "rocket-chat"
+cask "thunderbird"
+
+# Productivity Shit
+brew "tldr"
+cask "alfred"
+cask "1password"
+
+# Work stuff
+brew "hugo"
+brew "ansible"
+brew "ansible-lint"
+brew "restic"
+brew "whois", link: true
+brew "pass"
+cask "google-earth-pro"
+cask "nextcloud"
+
+# VM management
+brew "jeffreywildman/virt-manager/virt-manager"
+brew "jeffreywildman/virt-manager/virt-viewer"
+
+# Network stuff
+brew "mtr"
+brew "ipcalc"
+brew "nmap"
+brew "sipcalc"
+brew "tcptraceroute"
+brew "telnet"
+brew "vnstat"
+cask "wireshark"
+
+# Writing stuff
+cask "texpad"
+cask "mactex-no-gui"
+
+# Coding stuff
+brew "go"
+brew "neovim"
+brew "yamllint"
+brew "jq"
+cask "clion"
+cask "dash"
+cask "goland"
+cask "tower"
+cask "vagrant"
+cask "virtualbox"
+cask "visual-studio-code"
+
+
+# Other shit
+brew "sshfs"
+brew "sshpass"
+brew "tree"
