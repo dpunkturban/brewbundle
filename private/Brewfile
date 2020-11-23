@@ -29,6 +29,7 @@ cask "iterm2"
 cask "seafile-client"
 cask "typora"
 cask "spotify"
+brew "gopass"
 
 # Communication
 cask "whatsapp"
@@ -55,10 +56,13 @@ brew "sipcalc"
 brew "tcptraceroute"
 brew "telnet"
 brew "vnstat"
+cask "wireshark"
 
 # Study stuff
 cask "texpad"
 cask "mactex-no-gui"
+cask "tunnelblick"
+# cask "vmware-fusion" #not working on m1
 
 # Coding stuff
 brew "go"
